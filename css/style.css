@@ -64,11 +64,20 @@ body{
 .font-size70px{
     font-size: 70px;
 }
+.font-size30px{
+    font-size: 30px;
+}
+.font-size40px{
+    font-size: 40px;
+}
 
 
 /* colors */
 .white{
     color: white;
+}
+.pink{
+    color: rgb(151,146,228);
 }
 .blue{
     color: rgb(0,132,253);
@@ -158,6 +167,28 @@ button{
 
 }
 
+/* section 3 */
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+        /* immagini */
+.img-testimonial-1{
+    background-image: url(../img/testimonial1.jpg);
+}
+.img-testimonial-2{
+    background-image: url(../img/testimonial2.jpg);
+}
+.img-testimonial-3{
+    background-image: url(../img/testimonial3.jpg);
+}
 
 
 
